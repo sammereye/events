@@ -1,0 +1,76 @@
+{
+  "id": "vvG1fZbnQm1vgQ",
+  "name": "Quinn XCII - LOOK! I'm Alive Tour",
+  "url": "https://www.ticketmaster.com/quinn-xcii-look-im-alive-tour-indianapolis-indiana-09-13-2025/event/050062A6AE281D5A",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-13",
+      "localTime": "20:00:00",
+      "dateTime": "2025-09-14T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:12:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 164
+    },
+    {
+      "date": "Tue Aug 19 2025 08:30:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 164
+    },
+    {
+      "date": "Tue Aug 19 2025 08:49:21 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 164
+    },
+    {
+      "date": "Tue Aug 19 2025 17:15:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 164
+    },
+    {
+      "date": "Tue Aug 19 2025 17:34:09 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 164
+    },
+    {
+      "date": "Tue Aug 19 2025 21:27:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 166
+    },
+    {
+      "date": "Tue Aug 19 2025 22:11:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 170
+    },
+    {
+      "date": "Tue Aug 19 2025 22:30:57 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 170
+    },
+    {
+      "date": "Tue Aug 19 2025 22:50:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 170
+    },
+    {
+      "date": "Tue Aug 19 2025 23:09:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 42,
+      "upperPrice": 170
+    }
+  ],
+  "latestLowestPrice": 42,
+  "lastUpdated": "Tue Aug 19 2025 08:04:47 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/497/3091404e-f020-498d-9ed7-61a403eb3497_EVENT_DETAIL_PAGE_16_9.jpg"
+}

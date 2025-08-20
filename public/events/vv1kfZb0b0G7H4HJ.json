@@ -1,0 +1,76 @@
+{
+  "id": "vv1kfZb0b0G7H4HJ",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:12:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 339
+    },
+    {
+      "date": "Tue Aug 19 2025 08:30:32 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 339
+    },
+    {
+      "date": "Tue Aug 19 2025 08:49:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 339
+    },
+    {
+      "date": "Tue Aug 19 2025 17:15:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 315
+    },
+    {
+      "date": "Tue Aug 19 2025 17:34:00 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 315
+    },
+    {
+      "date": "Tue Aug 19 2025 21:27:01 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 315
+    },
+    {
+      "date": "Tue Aug 19 2025 22:11:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 315
+    },
+    {
+      "date": "Tue Aug 19 2025 22:30:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 315
+    },
+    {
+      "date": "Tue Aug 19 2025 22:50:09 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 315
+    },
+    {
+      "date": "Tue Aug 19 2025 23:09:33 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 315
+    }
+  ],
+  "name": "The Doobie Brothers with The Coral Reefer Band",
+  "url": "https://www.ticketmaster.com/the-doobie-brothers-with-the-coral-noblesville-indiana-09-13-2025/event/0500624624F15F26",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-13",
+      "localTime": "19:00:00",
+      "dateTime": "2025-09-13T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 37,
+  "lastUpdated": "Tue Aug 19 2025 08:04:39 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/531/454b968d-bc6e-4030-9521-f13806b58531_EVENT_DETAIL_PAGE_16_9.jpg"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "vvG1fZblkyiKxW",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:11:01 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 309
+    },
+    {
+      "date": "Tue Aug 19 2025 08:29:25 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 309
+    },
+    {
+      "date": "Tue Aug 19 2025 08:47:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 309
+    },
+    {
+      "date": "Tue Aug 19 2025 17:14:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 313
+    },
+    {
+      "date": "Tue Aug 19 2025 17:32:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 313
+    },
+    {
+      "date": "Tue Aug 19 2025 21:25:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 309
+    },
+    {
+      "date": "Tue Aug 19 2025 22:10:03 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 325
+    },
+    {
+      "date": "Tue Aug 19 2025 22:29:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 325
+    },
+    {
+      "date": "Tue Aug 19 2025 22:48:56 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 325
+    },
+    {
+      "date": "Tue Aug 19 2025 23:08:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 325
+    }
+  ],
+  "name": "Falling In Reverse: God Is A Weapon Tour",
+  "url": "https://www.ticketmaster.com/falling-in-reverse-god-is-a-noblesville-indiana-08-31-2025/event/050062B1B9B138BD",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-31",
+      "localTime": "18:15:00",
+      "dateTime": "2025-08-31T22:15:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 31,
+  "lastUpdated": "Tue Aug 19 2025 08:03:38 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/391/74c70346-8bd5-45a8-96a5-ef5ad098f391_EVENT_DETAIL_PAGE_16_9.jpg"
+}

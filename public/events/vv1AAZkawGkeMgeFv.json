@@ -1,0 +1,66 @@
+{
+  "id": "vv1AAZkawGkeMgeFv",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:16:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 243
+    },
+    {
+      "date": "Tue Aug 19 2025 08:34:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 243
+    },
+    {
+      "date": "Tue Aug 19 2025 17:19:26 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 247
+    },
+    {
+      "date": "Tue Aug 19 2025 17:37:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 247
+    },
+    {
+      "date": "Tue Aug 19 2025 21:30:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 242
+    },
+    {
+      "date": "Tue Aug 19 2025 22:15:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 245
+    },
+    {
+      "date": "Tue Aug 19 2025 22:34:56 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 245
+    },
+    {
+      "date": "Tue Aug 19 2025 22:54:11 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 245
+    }
+  ],
+  "name": "Pierce The Veil - I Can't Hear You World Tour",
+  "url": "https://www.ticketmaster.com/pierce-the-veil-i-cant-hear-noblesville-indiana-10-18-2025/event/05006272B7D42201",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-18",
+      "localTime": "18:30:00",
+      "dateTime": "2025-10-18T22:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 43,
+  "lastUpdated": "Tue Aug 19 2025 08:16:04 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/152/f08da163-513d-44ff-b62f-50c268517152_EVENT_DETAIL_PAGE_16_9.jpg"
+}

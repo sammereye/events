@@ -1,0 +1,90 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:00:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 275
+    },
+    {
+      "date": "Tue Aug 19 2025 08:02:51 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 271
+    },
+    {
+      "date": "Tue Aug 19 2025 08:06:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 271
+    },
+    {
+      "date": "Tue Aug 19 2025 08:10:18 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 271
+    },
+    {
+      "date": "Tue Aug 19 2025 08:28:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 277
+    },
+    {
+      "date": "Tue Aug 19 2025 08:46:56 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 277
+    },
+    {
+      "date": "Tue Aug 19 2025 17:13:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 269
+    },
+    {
+      "date": "Tue Aug 19 2025 17:32:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 269
+    },
+    {
+      "date": "Tue Aug 19 2025 21:25:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 269
+    },
+    {
+      "date": "Tue Aug 19 2025 22:09:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 277
+    },
+    {
+      "date": "Tue Aug 19 2025 22:28:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 275
+    },
+    {
+      "date": "Tue Aug 19 2025 22:48:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 259
+    },
+    {
+      "date": "Tue Aug 19 2025 23:07:20 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 43,
+      "upperPrice": 259
+    }
+  ],
+  "name": "Tedeschi Trucks Band & Whiskey Myers: Live in 25",
+  "url": "https://www.ticketmaster.com/tedeschi-trucks-band-whiskey-myers-live-noblesville-indiana-08-23-2025/event/05006235C17C2AD3",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-23",
+      "localTime": "19:30:00",
+      "dateTime": "2025-08-23T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 43,
+  "lastUpdated": "Tue Aug 19 2025 08:00:06 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/0d9/95ad6727-3707-4bfe-8e76-64eaa04660d9_EVENT_DETAIL_PAGE_16_9.jpg"
+}

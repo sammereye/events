@@ -1,0 +1,90 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 07:59:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 08:02:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 299
+    },
+    {
+      "date": "Tue Aug 19 2025 08:06:33 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 08:09:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 08:28:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 08:46:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 17:13:17 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 284
+    },
+    {
+      "date": "Tue Aug 19 2025 17:31:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 284
+    },
+    {
+      "date": "Tue Aug 19 2025 21:24:50 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 293
+    },
+    {
+      "date": "Tue Aug 19 2025 22:08:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 284
+    },
+    {
+      "date": "Tue Aug 19 2025 22:28:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 284
+    },
+    {
+      "date": "Tue Aug 19 2025 22:47:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 284
+    },
+    {
+      "date": "Tue Aug 19 2025 23:06:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 285
+    }
+  ],
+  "name": "WTTS Rock on the River Alison Krauss & Union Stn feat. Jerry Douglas",
+  "url": "https://www.ticketmaster.com/wtts-rock-on-the-river-alison-indianapolis-indiana-08-21-2025/event/05006179E3C63535",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-21",
+      "localTime": "19:30:00",
+      "dateTime": "2025-08-21T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 57,
+  "lastUpdated": "Tue Aug 19 2025 07:59:41 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/84c/c696fdfc-8e3c-4df6-bf4b-05b4f6dca84c_EVENT_DETAIL_PAGE_16_9.jpg"
+}

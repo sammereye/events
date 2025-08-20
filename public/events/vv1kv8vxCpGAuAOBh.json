@@ -1,0 +1,90 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:00:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 246
+    },
+    {
+      "date": "Tue Aug 19 2025 08:03:21 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 246
+    },
+    {
+      "date": "Tue Aug 19 2025 08:07:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 255
+    },
+    {
+      "date": "Tue Aug 19 2025 08:10:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 257
+    },
+    {
+      "date": "Tue Aug 19 2025 08:29:07 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 257
+    },
+    {
+      "date": "Tue Aug 19 2025 08:47:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 259
+    },
+    {
+      "date": "Tue Aug 19 2025 17:14:11 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 257
+    },
+    {
+      "date": "Tue Aug 19 2025 17:32:33 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 259
+    },
+    {
+      "date": "Tue Aug 19 2025 21:25:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 262
+    },
+    {
+      "date": "Tue Aug 19 2025 22:09:46 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 250
+    },
+    {
+      "date": "Tue Aug 19 2025 22:29:12 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 248
+    },
+    {
+      "date": "Tue Aug 19 2025 22:48:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 248
+    },
+    {
+      "date": "Tue Aug 19 2025 23:07:46 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 248
+    }
+  ],
+  "name": "Luke Bryan: Country Song Came On Tour",
+  "url": "https://www.ticketmaster.com/luke-bryan-country-song-came-on-noblesville-indiana-08-28-2025/event/050062396D160E9B",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-28",
+      "localTime": "19:00:00",
+      "dateTime": "2025-08-28T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 41,
+  "lastUpdated": "Tue Aug 19 2025 08:00:31 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/5f4/eb869c18-97d2-40c5-b8f7-c873e237c5f4_EVENT_DETAIL_PAGE_16_9.jpg"
+}

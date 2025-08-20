@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCwSzF",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:25:29 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 21,
+      "upperPrice": 124
+    },
+    {
+      "date": "Tue Aug 19 2025 08:43:57 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 21,
+      "upperPrice": 124
+    },
+    {
+      "date": "Tue Aug 19 2025 17:28:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 21,
+      "upperPrice": 126
+    },
+    {
+      "date": "Tue Aug 19 2025 17:47:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 21,
+      "upperPrice": 126
+    },
+    {
+      "date": "Tue Aug 19 2025 21:40:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 21,
+      "upperPrice": 126
+    },
+    {
+      "date": "Tue Aug 19 2025 22:25:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 21,
+      "upperPrice": 128
+    },
+    {
+      "date": "Tue Aug 19 2025 22:44:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 21,
+      "upperPrice": 128
+    },
+    {
+      "date": "Tue Aug 19 2025 23:04:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 21,
+      "upperPrice": 128
+    }
+  ],
+  "name": "Indiana Pacers vs. Philadelphia 76ers",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-philadelphia-76ers-indianapolis-indiana-02-24-2026/event/0500630DCECB3E08",
+  "dates": {
+    "start": {
+      "localDate": "2026-02-24",
+      "localTime": "19:00:00",
+      "dateTime": "2026-02-25T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 21,
+  "lastUpdated": "Tue Aug 19 2025 08:25:29 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

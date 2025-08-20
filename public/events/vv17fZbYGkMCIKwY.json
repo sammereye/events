@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCIKwY",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:20:18 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 08:38:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 17:23:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 17:42:08 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 21:34:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 279
+    },
+    {
+      "date": "Tue Aug 19 2025 22:19:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 279
+    },
+    {
+      "date": "Tue Aug 19 2025 22:39:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 279
+    },
+    {
+      "date": "Tue Aug 19 2025 22:58:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 279
+    }
+  ],
+  "name": "Indiana Pacers vs. New York Knicks",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-new-york-knicks-indianapolis-indiana-12-18-2025/event/0500630DCEA13CB0",
+  "dates": {
+    "start": {
+      "localDate": "2025-12-18",
+      "localTime": "19:00:00",
+      "dateTime": "2025-12-19T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 49,
+  "lastUpdated": "Tue Aug 19 2025 08:20:18 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "vvG1fZbc1ma45D",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:14:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 08:32:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 17:17:56 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 17:36:17 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 21:29:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 22:13:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 22:33:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 22:52:36 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    }
+  ],
+  "name": "Adam Sandler: You're My Best Friend",
+  "url": "https://www.ticketmaster.com/adam-sandler-youre-my-best-friend-indianapolis-indiana-10-06-2025/event/050062D2AE2552FB",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-06",
+      "localTime": "19:30:00",
+      "dateTime": "2025-10-06T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 60,
+  "lastUpdated": "Tue Aug 19 2025 08:14:40 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/f48/a6056c77-233f-42ac-86e9-ad1b34d4df48_EVENT_DETAIL_PAGE_16_9.jpg"
+}

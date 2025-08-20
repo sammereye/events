@@ -1,0 +1,90 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:00:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 51,
+      "upperPrice": 220
+    },
+    {
+      "date": "Tue Aug 19 2025 08:03:00 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 51,
+      "upperPrice": 220
+    },
+    {
+      "date": "Tue Aug 19 2025 08:07:05 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 51,
+      "upperPrice": 220
+    },
+    {
+      "date": "Tue Aug 19 2025 08:10:25 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 53,
+      "upperPrice": 225
+    },
+    {
+      "date": "Tue Aug 19 2025 08:28:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 53,
+      "upperPrice": 225
+    },
+    {
+      "date": "Tue Aug 19 2025 08:47:05 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 53,
+      "upperPrice": 225
+    },
+    {
+      "date": "Tue Aug 19 2025 17:13:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 235
+    },
+    {
+      "date": "Tue Aug 19 2025 17:32:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 57,
+      "upperPrice": 237
+    },
+    {
+      "date": "Tue Aug 19 2025 21:25:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 203
+    },
+    {
+      "date": "Tue Aug 19 2025 22:09:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 51,
+      "upperPrice": 211
+    },
+    {
+      "date": "Tue Aug 19 2025 22:28:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 51,
+      "upperPrice": 211
+    },
+    {
+      "date": "Tue Aug 19 2025 22:48:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 51,
+      "upperPrice": 211
+    },
+    {
+      "date": "Tue Aug 19 2025 23:07:29 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 51,
+      "upperPrice": 211
+    }
+  ],
+  "name": "The Black Keys: No Rain, No Flowers",
+  "url": "https://www.ticketmaster.com/the-black-keys-no-rain-no-indianapolis-indiana-08-24-2025/event/0500626AF9A1498E",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-24",
+      "localTime": "19:30:00",
+      "dateTime": "2025-08-24T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 51,
+  "lastUpdated": "Tue Aug 19 2025 08:00:14 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/ffd/7adf93e9-8142-4efc-b3d7-4a3031a3cffd_EVENT_DETAIL_PAGE_16_9.jpg"
+}

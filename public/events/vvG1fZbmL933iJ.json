@@ -1,0 +1,76 @@
+{
+  "id": "vvG1fZbmL933iJ",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:13:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 313
+    },
+    {
+      "date": "Tue Aug 19 2025 08:31:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 313
+    },
+    {
+      "date": "Tue Aug 19 2025 08:50:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 313
+    },
+    {
+      "date": "Tue Aug 19 2025 17:16:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 305
+    },
+    {
+      "date": "Tue Aug 19 2025 17:35:08 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 305
+    },
+    {
+      "date": "Tue Aug 19 2025 21:28:08 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 305
+    },
+    {
+      "date": "Tue Aug 19 2025 22:12:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 305
+    },
+    {
+      "date": "Tue Aug 19 2025 22:32:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 305
+    },
+    {
+      "date": "Tue Aug 19 2025 22:51:23 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 305
+    },
+    {
+      "date": "Tue Aug 19 2025 23:10:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 73,
+      "upperPrice": 305
+    }
+  ],
+  "name": "Indy Jazz Fest presented by Citizens Energy Group",
+  "url": "https://www.ticketmaster.com/indy-jazz-fest-presented-by-citizens-indianapolis-indiana-09-20-2025/event/050062E7D7492B26",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-20",
+      "localTime": "16:00:00",
+      "dateTime": "2025-09-20T20:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 73,
+  "lastUpdated": "Tue Aug 19 2025 08:13:06 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/e/2ff/50d1dd1f-9aa6-4cb4-8dfb-c59eea45c2ff_EVENT_DETAIL_PAGE_16_9.jpg"
+}

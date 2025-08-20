@@ -1,0 +1,66 @@
+{
+  "id": "vvG1fZbmJLvx5a",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:16:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 34,
+      "upperPrice": 63
+    },
+    {
+      "date": "Tue Aug 19 2025 08:34:59 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 34,
+      "upperPrice": 63
+    },
+    {
+      "date": "Tue Aug 19 2025 17:20:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 34,
+      "upperPrice": 63
+    },
+    {
+      "date": "Tue Aug 19 2025 17:38:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 34,
+      "upperPrice": 63
+    },
+    {
+      "date": "Tue Aug 19 2025 21:31:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 34,
+      "upperPrice": 63
+    },
+    {
+      "date": "Tue Aug 19 2025 22:15:57 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 34,
+      "upperPrice": 63
+    },
+    {
+      "date": "Tue Aug 19 2025 22:35:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 34,
+      "upperPrice": 63
+    },
+    {
+      "date": "Tue Aug 19 2025 22:54:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 34,
+      "upperPrice": 63
+    }
+  ],
+  "name": "Bands Of America Super Regional Saturday Finals",
+  "url": "https://www.ticketmaster.com/bands-of-america-super-regional-saturday-indianapolis-indiana-10-25-2025/event/050062E99F0622C9",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-25",
+      "localTime": "19:00:00",
+      "dateTime": "2025-10-25T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 34,
+  "lastUpdated": "Tue Aug 19 2025 08:16:44 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/29b/5b66192a-4e1e-4ce6-b3b6-c38b3ce9b29b_1168511_EVENT_DETAIL_PAGE_16_9.jpg"
+}

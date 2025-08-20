@@ -1,0 +1,95 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 07:58:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 186
+    },
+    {
+      "date": "Tue Aug 19 2025 07:59:26 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 186
+    },
+    {
+      "date": "Tue Aug 19 2025 08:02:12 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 186
+    },
+    {
+      "date": "Tue Aug 19 2025 08:06:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 08:09:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 08:27:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 08:46:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 191
+    },
+    {
+      "date": "Tue Aug 19 2025 17:13:01 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 177
+    },
+    {
+      "date": "Tue Aug 19 2025 17:31:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 177
+    },
+    {
+      "date": "Tue Aug 19 2025 21:24:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 166
+    },
+    {
+      "date": "Tue Aug 19 2025 22:08:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 166
+    },
+    {
+      "date": "Tue Aug 19 2025 22:27:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 166
+    },
+    {
+      "date": "Tue Aug 19 2025 22:47:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 166
+    },
+    {
+      "date": "Tue Aug 19 2025 23:06:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 166
+    }
+  ],
+  "name": "Gregory Alan Isakov w/ Special Guest Ocie Elliott",
+  "url": "https://www.ticketmaster.com/gregory-alan-isakov-w-special-guest-indianapolis-indiana-08-20-2025/event/05006247A08B4746",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-20",
+      "localTime": "19:30:00",
+      "dateTime": "2025-08-20T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 40,
+  "lastUpdated": "Tue Aug 19 2025 07:58:44 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/97f/ad9bea2e-2243-49cf-9c53-f75adc90f97f_EVENT_DETAIL_PAGE_16_9.jpg"
+}

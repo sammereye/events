@@ -1,0 +1,76 @@
+{
+  "id": "vv1kfZbNxeG7X-YF",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:11:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 204
+    },
+    {
+      "date": "Tue Aug 19 2025 08:29:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 204
+    },
+    {
+      "date": "Tue Aug 19 2025 08:48:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 204
+    },
+    {
+      "date": "Tue Aug 19 2025 17:14:59 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 197
+    },
+    {
+      "date": "Tue Aug 19 2025 17:33:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 197
+    },
+    {
+      "date": "Tue Aug 19 2025 21:26:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 200
+    },
+    {
+      "date": "Tue Aug 19 2025 22:10:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 200
+    },
+    {
+      "date": "Tue Aug 19 2025 22:30:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 200
+    },
+    {
+      "date": "Tue Aug 19 2025 22:49:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 200
+    },
+    {
+      "date": "Tue Aug 19 2025 23:08:32 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 200
+    }
+  ],
+  "name": "Billy Currington & Kip Moore",
+  "url": "https://www.ticketmaster.com/billy-currington-kip-moore-indianapolis-indiana-09-06-2025/event/0500623882FA1C08",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-06",
+      "localTime": "19:00:00",
+      "dateTime": "2025-09-06T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 40,
+  "lastUpdated": "Tue Aug 19 2025 08:04:04 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/fa8/353c8daa-9fd7-4926-9c88-bcac16b63fa8_1281951_EVENT_DETAIL_PAGE_16_9.jpg"
+}

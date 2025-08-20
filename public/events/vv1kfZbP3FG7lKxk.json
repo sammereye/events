@@ -1,0 +1,76 @@
+{
+  "id": "vv1kfZbP3FG7lKxk",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:11:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 274
+    },
+    {
+      "date": "Tue Aug 19 2025 08:29:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 274
+    },
+    {
+      "date": "Tue Aug 19 2025 08:47:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 274
+    },
+    {
+      "date": "Tue Aug 19 2025 17:14:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 293
+    },
+    {
+      "date": "Tue Aug 19 2025 17:33:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 293
+    },
+    {
+      "date": "Tue Aug 19 2025 21:26:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 288
+    },
+    {
+      "date": "Tue Aug 19 2025 22:10:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 288
+    },
+    {
+      "date": "Tue Aug 19 2025 22:29:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 288
+    },
+    {
+      "date": "Tue Aug 19 2025 22:49:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 288
+    },
+    {
+      "date": "Tue Aug 19 2025 23:08:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 288
+    }
+  ],
+  "name": "Pantera",
+  "url": "https://www.ticketmaster.com/pantera-noblesville-indiana-09-05-2025/event/0500625488AD3886",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-05",
+      "localTime": "19:00:00",
+      "dateTime": "2025-09-05T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 41,
+  "lastUpdated": "Tue Aug 19 2025 08:03:47 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/902/26ea6c10-1ced-4b2b-9ccf-894a90eea902_EVENT_DETAIL_PAGE_16_9.jpg"
+}

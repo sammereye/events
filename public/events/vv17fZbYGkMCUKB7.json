@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCUKB7",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:26:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 108
+    },
+    {
+      "date": "Tue Aug 19 2025 08:44:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 108
+    },
+    {
+      "date": "Tue Aug 19 2025 17:29:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 108
+    },
+    {
+      "date": "Tue Aug 19 2025 17:48:08 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 108
+    },
+    {
+      "date": "Tue Aug 19 2025 21:41:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 108
+    },
+    {
+      "date": "Tue Aug 19 2025 22:26:09 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 110
+    },
+    {
+      "date": "Tue Aug 19 2025 22:45:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 110
+    },
+    {
+      "date": "Tue Aug 19 2025 23:05:00 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 110
+    }
+  ],
+  "name": "Indiana Pacers vs. Portland Trail Blazers",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-portland-trail-blazers-indianapolis-indiana-03-18-2026/event/0500630DCED93E84",
+  "dates": {
+    "start": {
+      "localDate": "2026-03-18",
+      "localTime": "19:30:00",
+      "dateTime": "2026-03-18T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 15,
+  "lastUpdated": "Tue Aug 19 2025 08:26:14 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

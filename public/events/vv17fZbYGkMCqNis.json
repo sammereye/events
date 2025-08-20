@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCqNis",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:15:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 91
+    },
+    {
+      "date": "Tue Aug 19 2025 08:33:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 91
+    },
+    {
+      "date": "Tue Aug 19 2025 17:19:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 76
+    },
+    {
+      "date": "Tue Aug 19 2025 17:37:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 76
+    },
+    {
+      "date": "Tue Aug 19 2025 21:30:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 108
+    },
+    {
+      "date": "Tue Aug 19 2025 22:14:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 87
+    },
+    {
+      "date": "Tue Aug 19 2025 22:34:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 87
+    },
+    {
+      "date": "Tue Aug 19 2025 22:53:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 87
+    }
+  ],
+  "name": "(PRESEASON) Indiana Pacers vs. San Antonio Spurs",
+  "url": "https://www.ticketmaster.com/preseason-indiana-pacers-vs-san-antonio-indianapolis-indiana-10-13-2025/event/0500630DCE763B31",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-13",
+      "localTime": "19:00:00",
+      "dateTime": "2025-10-13T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 7,
+  "lastUpdated": "Tue Aug 19 2025 08:15:44 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

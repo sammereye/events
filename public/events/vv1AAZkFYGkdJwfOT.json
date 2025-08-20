@@ -1,0 +1,90 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:00:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 189
+    },
+    {
+      "date": "Tue Aug 19 2025 08:03:29 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 188
+    },
+    {
+      "date": "Tue Aug 19 2025 08:07:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 189
+    },
+    {
+      "date": "Tue Aug 19 2025 08:10:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 189
+    },
+    {
+      "date": "Tue Aug 19 2025 08:29:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 189
+    },
+    {
+      "date": "Tue Aug 19 2025 08:47:33 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 189
+    },
+    {
+      "date": "Tue Aug 19 2025 17:14:21 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 205
+    },
+    {
+      "date": "Tue Aug 19 2025 17:32:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 205
+    },
+    {
+      "date": "Tue Aug 19 2025 21:25:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 205
+    },
+    {
+      "date": "Tue Aug 19 2025 22:09:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 205
+    },
+    {
+      "date": "Tue Aug 19 2025 22:29:23 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 205
+    },
+    {
+      "date": "Tue Aug 19 2025 22:48:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 205
+    },
+    {
+      "date": "Tue Aug 19 2025 23:07:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 205
+    }
+  ],
+  "name": "Billy Idol:  It's A Nice Day To...Tour Again!",
+  "url": "https://www.ticketmaster.com/billy-idol-its-a-nice-day-noblesville-indiana-08-30-2025/event/05006230E6C9483F",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-30",
+      "localTime": "19:30:00",
+      "dateTime": "2025-08-30T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 31,
+  "lastUpdated": "Tue Aug 19 2025 08:00:40 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/820/01d6c8b3-78f1-473d-b0f7-6139edc76820_EVENT_DETAIL_PAGE_16_9.jpg"
+}

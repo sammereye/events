@@ -1,0 +1,66 @@
+{
+  "id": "vvG1fZbnN4mV5e",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:18:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 58,
+      "upperPrice": 86
+    },
+    {
+      "date": "Tue Aug 19 2025 08:36:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 58,
+      "upperPrice": 86
+    },
+    {
+      "date": "Tue Aug 19 2025 17:21:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 58,
+      "upperPrice": 86
+    },
+    {
+      "date": "Tue Aug 19 2025 17:40:03 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 58,
+      "upperPrice": 86
+    },
+    {
+      "date": "Tue Aug 19 2025 21:32:56 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 58,
+      "upperPrice": 86
+    },
+    {
+      "date": "Tue Aug 19 2025 22:17:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 58,
+      "upperPrice": 86
+    },
+    {
+      "date": "Tue Aug 19 2025 22:37:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 58,
+      "upperPrice": 86
+    },
+    {
+      "date": "Tue Aug 19 2025 22:56:32 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 58,
+      "upperPrice": 86
+    }
+  ],
+  "name": "Bands Of America Grand Nationals Semi-finals",
+  "url": "https://www.ticketmaster.com/bands-of-america-grand-nationals-semifinals-indianapolis-indiana-11-15-2025/event/050062A8D5BB42C2",
+  "dates": {
+    "start": {
+      "localDate": "2025-11-15",
+      "localTime": "07:00:00",
+      "dateTime": "2025-11-15T12:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 58,
+  "lastUpdated": "Tue Aug 19 2025 08:18:15 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/29b/5b66192a-4e1e-4ce6-b3b6-c38b3ce9b29b_1168511_EVENT_DETAIL_PAGE_16_9.jpg"
+}

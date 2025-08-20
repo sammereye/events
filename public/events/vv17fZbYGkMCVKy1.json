@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCVKy1",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:25:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 156
+    },
+    {
+      "date": "Tue Aug 19 2025 08:44:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 156
+    },
+    {
+      "date": "Tue Aug 19 2025 17:29:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 160
+    },
+    {
+      "date": "Tue Aug 19 2025 17:47:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 160
+    },
+    {
+      "date": "Tue Aug 19 2025 21:40:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 156
+    },
+    {
+      "date": "Tue Aug 19 2025 22:25:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 160
+    },
+    {
+      "date": "Tue Aug 19 2025 22:45:00 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 160
+    },
+    {
+      "date": "Tue Aug 19 2025 23:04:32 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 160
+    }
+  ],
+  "name": "Indiana Pacers vs. Memphis Grizzlies",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-memphis-grizzlies-indianapolis-indiana-03-01-2026/event/0500630DCED13E4A",
+  "dates": {
+    "start": {
+      "localDate": "2026-03-01",
+      "localTime": "17:00:00",
+      "dateTime": "2026-03-01T22:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 24,
+  "lastUpdated": "Tue Aug 19 2025 08:25:48 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

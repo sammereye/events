@@ -1,0 +1,90 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 07:59:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 138
+    },
+    {
+      "date": "Tue Aug 19 2025 08:02:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 145
+    },
+    {
+      "date": "Tue Aug 19 2025 08:06:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 145
+    },
+    {
+      "date": "Tue Aug 19 2025 08:10:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 138
+    },
+    {
+      "date": "Tue Aug 19 2025 08:28:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 138
+    },
+    {
+      "date": "Tue Aug 19 2025 08:46:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 17,
+      "upperPrice": 145
+    },
+    {
+      "date": "Tue Aug 19 2025 17:13:26 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 146
+    },
+    {
+      "date": "Tue Aug 19 2025 17:31:46 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 147
+    },
+    {
+      "date": "Tue Aug 19 2025 21:24:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 254
+    },
+    {
+      "date": "Tue Aug 19 2025 22:09:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 258
+    },
+    {
+      "date": "Tue Aug 19 2025 22:28:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 258
+    },
+    {
+      "date": "Tue Aug 19 2025 22:47:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 253
+    },
+    {
+      "date": "Tue Aug 19 2025 23:07:01 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 252
+    }
+  ],
+  "name": "Indiana Fever vs. Minnesota Lynx",
+  "url": "https://www.ticketmaster.com/indiana-fever-vs-minnesota-lynx-indianapolis-indiana-08-22-2025/event/05006184C1F73218",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-22",
+      "localTime": "19:30:00",
+      "dateTime": "2025-08-22T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 16,
+  "lastUpdated": "Tue Aug 19 2025 07:59:49 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/349/0af77d9c-2d26-4df4-89f8-a02f6eb75349_EVENT_DETAIL_PAGE_16_9.jpg"
+}

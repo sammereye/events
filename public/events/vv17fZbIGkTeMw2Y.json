@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbIGkTeMw2Y",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:13:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 13,
+      "upperPrice": 53
+    },
+    {
+      "date": "Tue Aug 19 2025 08:32:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 13,
+      "upperPrice": 53
+    },
+    {
+      "date": "Tue Aug 19 2025 17:17:23 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 13,
+      "upperPrice": 53
+    },
+    {
+      "date": "Tue Aug 19 2025 17:35:46 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 13,
+      "upperPrice": 53
+    },
+    {
+      "date": "Tue Aug 19 2025 21:28:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 13,
+      "upperPrice": 53
+    },
+    {
+      "date": "Tue Aug 19 2025 22:13:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 13,
+      "upperPrice": 53
+    },
+    {
+      "date": "Tue Aug 19 2025 22:32:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 13,
+      "upperPrice": 53
+    },
+    {
+      "date": "Tue Aug 19 2025 22:52:03 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 13,
+      "upperPrice": 53
+    }
+  ],
+  "name": "The 41st Circle City Classic Football Game",
+  "url": "https://www.ticketmaster.com/the-41st-circle-city-classic-football-indianapolis-indiana-09-27-2025/event/0500628FC2DF23F0",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-27",
+      "localTime": "15:00:00",
+      "dateTime": "2025-09-27T19:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 13,
+  "lastUpdated": "Tue Aug 19 2025 08:13:43 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/60d/1f435faa-5eb3-4099-af9a-479102f4460d_EVENT_DETAIL_PAGE_16_9.jpg"
+}

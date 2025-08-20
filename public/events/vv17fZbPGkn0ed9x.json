@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbPGkn0ed9x",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:18:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 148
+    },
+    {
+      "date": "Tue Aug 19 2025 08:37:03 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 148
+    },
+    {
+      "date": "Tue Aug 19 2025 17:22:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 148
+    },
+    {
+      "date": "Tue Aug 19 2025 17:40:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 148
+    },
+    {
+      "date": "Tue Aug 19 2025 21:33:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 148
+    },
+    {
+      "date": "Tue Aug 19 2025 22:18:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 148
+    },
+    {
+      "date": "Tue Aug 19 2025 22:37:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 148
+    },
+    {
+      "date": "Tue Aug 19 2025 22:57:12 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 148
+    }
+  ],
+  "name": "BERT KREISCHER: PERMISSION TO PARTY",
+  "url": "https://www.ticketmaster.com/bert-kreischer-permission-to-party-indianapolis-indiana-11-22-2025/event/0500625AA40835E2",
+  "dates": {
+    "start": {
+      "localDate": "2025-11-22",
+      "localTime": "19:00:00",
+      "dateTime": "2025-11-23T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 56,
+  "lastUpdated": "Tue Aug 19 2025 08:18:54 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dbimages/606079a.jpg"
+}

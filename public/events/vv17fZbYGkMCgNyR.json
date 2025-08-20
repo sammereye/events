@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCgNyR",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:26:05 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 67,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 08:44:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 67,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 17:29:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 67,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 17:47:59 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 67,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 21:41:09 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 67,
+      "upperPrice": 315
+    },
+    {
+      "date": "Tue Aug 19 2025 22:25:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 67,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 22:45:20 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 67,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 23:04:50 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 67,
+      "upperPrice": 311
+    }
+  ],
+  "name": "Indiana Pacers vs. New York Knicks",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-new-york-knicks-indianapolis-indiana-03-13-2026/event/0500630DCED63E6F",
+  "dates": {
+    "start": {
+      "localDate": "2026-03-13",
+      "localTime": "19:30:00",
+      "dateTime": "2026-03-13T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 67,
+  "lastUpdated": "Tue Aug 19 2025 08:26:05 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

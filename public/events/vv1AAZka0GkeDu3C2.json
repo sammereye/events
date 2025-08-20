@@ -1,0 +1,76 @@
+{
+  "id": "vv1AAZka0GkeDu3C2",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:12:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 356
+    },
+    {
+      "date": "Tue Aug 19 2025 08:31:11 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 356
+    },
+    {
+      "date": "Tue Aug 19 2025 08:49:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 355
+    },
+    {
+      "date": "Tue Aug 19 2025 17:16:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 363
+    },
+    {
+      "date": "Tue Aug 19 2025 17:34:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 363
+    },
+    {
+      "date": "Tue Aug 19 2025 21:27:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 360
+    },
+    {
+      "date": "Tue Aug 19 2025 22:11:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 359
+    },
+    {
+      "date": "Tue Aug 19 2025 22:31:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 359
+    },
+    {
+      "date": "Tue Aug 19 2025 22:50:50 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 359
+    },
+    {
+      "date": "Tue Aug 19 2025 23:10:08 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 359
+    }
+  ],
+  "name": "Outlaw - Willie Nelson, Bob Dylan, Sheryl Crow & More",
+  "url": "https://www.ticketmaster.com/outlaw-willie-nelson-bob-dylan-sheryl-noblesville-indiana-09-18-2025/event/05006264BB35238F",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-18",
+      "localTime": "15:45:00",
+      "dateTime": "2025-09-18T19:45:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 41,
+  "lastUpdated": "Tue Aug 19 2025 08:05:16 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dbimages/587624a.jpg"
+}

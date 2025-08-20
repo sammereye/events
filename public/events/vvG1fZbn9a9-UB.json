@@ -1,0 +1,66 @@
+{
+  "id": "vvG1fZbn9a9-UB",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:16:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 120,
+      "upperPrice": 444
+    },
+    {
+      "date": "Tue Aug 19 2025 08:34:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 120,
+      "upperPrice": 444
+    },
+    {
+      "date": "Tue Aug 19 2025 17:19:36 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 120,
+      "upperPrice": 444
+    },
+    {
+      "date": "Tue Aug 19 2025 17:38:01 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 120,
+      "upperPrice": 444
+    },
+    {
+      "date": "Tue Aug 19 2025 21:30:54 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 120,
+      "upperPrice": 444
+    },
+    {
+      "date": "Tue Aug 19 2025 22:15:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 120,
+      "upperPrice": 444
+    },
+    {
+      "date": "Tue Aug 19 2025 22:35:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 120,
+      "upperPrice": 444
+    },
+    {
+      "date": "Tue Aug 19 2025 22:54:21 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 120,
+      "upperPrice": 444
+    }
+  ],
+  "name": "Brandy & Monica: The Boy Is Mine Tour",
+  "url": "https://www.ticketmaster.com/brandy-monica-the-boy-is-mine-indianapolis-indiana-10-19-2025/event/050062A5C95E1DBA",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-19",
+      "localTime": "19:00:00",
+      "dateTime": "2025-10-19T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 120,
+  "lastUpdated": "Tue Aug 19 2025 08:16:13 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/e/756/c034bf05-5af6-42a1-8242-e5e94b4e4756_EVENT_DETAIL_PAGE_16_9.jpg"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "vvG1fZbn5WSAyh",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:14:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 209
+    },
+    {
+      "date": "Tue Aug 19 2025 08:33:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 209
+    },
+    {
+      "date": "Tue Aug 19 2025 08:52:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 209
+    },
+    {
+      "date": "Tue Aug 19 2025 17:18:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 212
+    },
+    {
+      "date": "Tue Aug 19 2025 17:36:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 212
+    },
+    {
+      "date": "Tue Aug 19 2025 21:29:26 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 212
+    },
+    {
+      "date": "Tue Aug 19 2025 22:13:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 211
+    },
+    {
+      "date": "Tue Aug 19 2025 22:33:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 211
+    },
+    {
+      "date": "Tue Aug 19 2025 22:52:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 211
+    },
+    {
+      "date": "Tue Aug 19 2025 23:12:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 54,
+      "upperPrice": 211
+    }
+  ],
+  "name": "Kevin Gates - The Amilio Tour",
+  "url": "https://www.ticketmaster.com/kevin-gates-the-amilio-tour-indianapolis-indiana-10-08-2025/event/050062A2FDCC5E5B",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-08",
+      "localTime": "20:00:00",
+      "dateTime": "2025-10-09T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 54,
+  "lastUpdated": "Tue Aug 19 2025 08:14:49 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/132/75a7f9de-ddba-46ad-b915-ec97f3234132_EVENT_DETAIL_PAGE_16_9.jpg"
+}

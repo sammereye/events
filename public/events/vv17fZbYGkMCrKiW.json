@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCrKiW",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:16:21 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 08:34:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 311
+    },
+    {
+      "date": "Tue Aug 19 2025 17:19:46 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 302
+    },
+    {
+      "date": "Tue Aug 19 2025 17:38:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 302
+    },
+    {
+      "date": "Tue Aug 19 2025 21:31:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 298
+    },
+    {
+      "date": "Tue Aug 19 2025 22:15:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 294
+    },
+    {
+      "date": "Tue Aug 19 2025 22:35:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 294
+    },
+    {
+      "date": "Tue Aug 19 2025 22:54:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 294
+    }
+  ],
+  "name": "Indiana Pacers vs. Oklahoma City Thunder",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-oklahoma-city-thunder-indianapolis-indiana-10-23-2025/event/0500630DCE793B3D",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-23",
+      "localTime": "19:30:00",
+      "dateTime": "2025-10-23T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 49,
+  "lastUpdated": "Tue Aug 19 2025 08:16:21 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

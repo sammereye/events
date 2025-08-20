@@ -1,0 +1,66 @@
+{
+  "id": "vvG1fZbmJhX3Zg",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:16:29 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 38
+    },
+    {
+      "date": "Tue Aug 19 2025 08:34:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 38
+    },
+    {
+      "date": "Tue Aug 19 2025 17:19:54 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 38
+    },
+    {
+      "date": "Tue Aug 19 2025 17:38:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 38
+    },
+    {
+      "date": "Tue Aug 19 2025 21:31:11 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 38
+    },
+    {
+      "date": "Tue Aug 19 2025 22:15:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 38
+    },
+    {
+      "date": "Tue Aug 19 2025 22:35:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 38
+    },
+    {
+      "date": "Tue Aug 19 2025 22:54:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 37,
+      "upperPrice": 38
+    }
+  ],
+  "name": "Bands Of America Indianapolis Super Regional Friday Prelims",
+  "url": "https://www.ticketmaster.com/bands-of-america-indianapolis-super-regional-indianapolis-indiana-10-24-2025/event/050062E99BF92035",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-24",
+      "localTime": "07:30:00",
+      "dateTime": "2025-10-24T11:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 37,
+  "lastUpdated": "Tue Aug 19 2025 08:16:29 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/29b/5b66192a-4e1e-4ce6-b3b6-c38b3ce9b29b_1168511_EVENT_DETAIL_PAGE_16_9.jpg"
+}

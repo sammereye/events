@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCLScf",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:17:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 90,
+      "upperPrice": 510
+    },
+    {
+      "date": "Tue Aug 19 2025 08:35:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 90,
+      "upperPrice": 510
+    },
+    {
+      "date": "Tue Aug 19 2025 17:20:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 90,
+      "upperPrice": 482
+    },
+    {
+      "date": "Tue Aug 19 2025 17:39:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 90,
+      "upperPrice": 482
+    },
+    {
+      "date": "Tue Aug 19 2025 21:31:56 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 90,
+      "upperPrice": 476
+    },
+    {
+      "date": "Tue Aug 19 2025 22:16:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 90,
+      "upperPrice": 482
+    },
+    {
+      "date": "Tue Aug 19 2025 22:36:07 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 90,
+      "upperPrice": 482
+    },
+    {
+      "date": "Tue Aug 19 2025 22:55:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 90,
+      "upperPrice": 482
+    }
+  ],
+  "name": "Indiana Pacers vs. Golden State Warriors",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-golden-state-warriors-indianapolis-indiana-11-01-2025/event/0500630DCE7F3B54",
+  "dates": {
+    "start": {
+      "localDate": "2025-11-01",
+      "localTime": "19:00:00",
+      "dateTime": "2025-11-01T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 90,
+  "lastUpdated": "Tue Aug 19 2025 08:17:15 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

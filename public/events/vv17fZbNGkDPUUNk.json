@@ -1,0 +1,71 @@
+{
+  "id": "vv17fZbNGkDPUUNk",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:32:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 76,
+      "upperPrice": 396
+    },
+    {
+      "date": "Tue Aug 19 2025 08:51:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 76,
+      "upperPrice": 402
+    },
+    {
+      "date": "Tue Aug 19 2025 17:17:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 70,
+      "upperPrice": 372
+    },
+    {
+      "date": "Tue Aug 19 2025 17:35:56 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 70,
+      "upperPrice": 384
+    },
+    {
+      "date": "Tue Aug 19 2025 21:28:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 72,
+      "upperPrice": 398
+    },
+    {
+      "date": "Tue Aug 19 2025 22:13:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 72,
+      "upperPrice": 398
+    },
+    {
+      "date": "Tue Aug 19 2025 22:32:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 72,
+      "upperPrice": 398
+    },
+    {
+      "date": "Tue Aug 19 2025 22:52:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 72,
+      "upperPrice": 398
+    },
+    {
+      "date": "Tue Aug 19 2025 23:11:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 72,
+      "upperPrice": 398
+    }
+  ],
+  "name": "Lainey Wilson: Whirlwind World Tour",
+  "url": "https://www.ticketmaster.com/lainey-wilson-whirlwind-world-tour-noblesville-indiana-10-03-2025/event/0500623EE5DB68C6",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-03",
+      "localTime": "19:00:00",
+      "dateTime": "2025-10-03T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 76,
+  "lastUpdated": "Tue Aug 19 2025 08:32:30 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/5ee/678dba0f-134b-4020-a963-f9f9023bb5ee_EVENT_DETAIL_PAGE_16_9.jpg"
+}

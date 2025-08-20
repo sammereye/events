@@ -1,0 +1,90 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 07:59:57 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 236
+    },
+    {
+      "date": "Tue Aug 19 2025 08:02:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 236
+    },
+    {
+      "date": "Tue Aug 19 2025 08:06:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 234
+    },
+    {
+      "date": "Tue Aug 19 2025 08:10:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 244
+    },
+    {
+      "date": "Tue Aug 19 2025 08:28:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 244
+    },
+    {
+      "date": "Tue Aug 19 2025 08:46:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 244
+    },
+    {
+      "date": "Tue Aug 19 2025 17:13:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 202
+    },
+    {
+      "date": "Tue Aug 19 2025 17:31:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 202
+    },
+    {
+      "date": "Tue Aug 19 2025 21:25:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 208
+    },
+    {
+      "date": "Tue Aug 19 2025 22:09:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 208
+    },
+    {
+      "date": "Tue Aug 19 2025 22:28:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 208
+    },
+    {
+      "date": "Tue Aug 19 2025 22:47:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 208
+    },
+    {
+      "date": "Tue Aug 19 2025 23:07:11 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 40,
+      "upperPrice": 208
+    }
+  ],
+  "name": "Rob Thomas - The All Night Days Tour",
+  "url": "https://www.ticketmaster.com/rob-thomas-the-all-night-days-indianapolis-indiana-08-22-2025/event/050062A2D9055362",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-22",
+      "localTime": "19:30:00",
+      "dateTime": "2025-08-22T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 40,
+  "lastUpdated": "Tue Aug 19 2025 07:59:57 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/595/75f5503d-fae1-40cc-92e4-6712d72b4595_EVENT_DETAIL_PAGE_16_9.jpg"
+}

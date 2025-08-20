@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCJdYp",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:19:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 179
+    },
+    {
+      "date": "Tue Aug 19 2025 08:38:00 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 179
+    },
+    {
+      "date": "Tue Aug 19 2025 17:23:09 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 179
+    },
+    {
+      "date": "Tue Aug 19 2025 17:41:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 179
+    },
+    {
+      "date": "Tue Aug 19 2025 21:34:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 177
+    },
+    {
+      "date": "Tue Aug 19 2025 22:19:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 177
+    },
+    {
+      "date": "Tue Aug 19 2025 22:38:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 177
+    },
+    {
+      "date": "Tue Aug 19 2025 22:58:12 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 177
+    }
+  ],
+  "name": "Indiana Pacers vs. Denver Nuggets",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-denver-nuggets-indianapolis-indiana-12-03-2025/event/0500630DCE983C16",
+  "dates": {
+    "start": {
+      "localDate": "2025-12-03",
+      "localTime": "19:00:00",
+      "dateTime": "2025-12-04T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 24,
+  "lastUpdated": "Tue Aug 19 2025 08:19:53 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

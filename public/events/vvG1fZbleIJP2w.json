@@ -1,0 +1,66 @@
+{
+  "id": "vvG1fZbleIJP2w",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:11:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 79,
+      "upperPrice": 230
+    },
+    {
+      "date": "Tue Aug 19 2025 08:30:12 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 79,
+      "upperPrice": 230
+    },
+    {
+      "date": "Tue Aug 19 2025 17:15:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 79,
+      "upperPrice": 230
+    },
+    {
+      "date": "Tue Aug 19 2025 17:33:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 79,
+      "upperPrice": 230
+    },
+    {
+      "date": "Tue Aug 19 2025 21:26:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 79,
+      "upperPrice": 230
+    },
+    {
+      "date": "Tue Aug 19 2025 22:10:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 79,
+      "upperPrice": 230
+    },
+    {
+      "date": "Tue Aug 19 2025 22:30:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 79,
+      "upperPrice": 230
+    },
+    {
+      "date": "Tue Aug 19 2025 22:49:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 79,
+      "upperPrice": 230
+    }
+  ],
+  "name": "85 South",
+  "url": "https://www.ticketmaster.com/85-south-indianapolis-indiana-09-07-2025/event/050062B0A89A53F2",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-07",
+      "localTime": "19:00:00",
+      "dateTime": "2025-09-07T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 79,
+  "lastUpdated": "Tue Aug 19 2025 08:04:22 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/98f/71fd30b1-0e7c-4d41-acee-8a56ccbcd98f_EVENT_DETAIL_PAGE_16_9.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbtGkDiHgUx",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:15:36 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 85,
+      "upperPrice": 367
+    },
+    {
+      "date": "Tue Aug 19 2025 08:33:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 85,
+      "upperPrice": 367
+    },
+    {
+      "date": "Tue Aug 19 2025 17:18:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 85,
+      "upperPrice": 367
+    },
+    {
+      "date": "Tue Aug 19 2025 17:37:21 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 85,
+      "upperPrice": 367
+    },
+    {
+      "date": "Tue Aug 19 2025 21:30:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 85,
+      "upperPrice": 367
+    },
+    {
+      "date": "Tue Aug 19 2025 22:14:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 85,
+      "upperPrice": 367
+    },
+    {
+      "date": "Tue Aug 19 2025 22:34:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 85,
+      "upperPrice": 367
+    },
+    {
+      "date": "Tue Aug 19 2025 22:53:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 85,
+      "upperPrice": 367
+    }
+  ],
+  "name": "Ana Gabriel \"Claro de Luna\" Tour",
+  "url": "https://www.ticketmaster.com/ana-gabriel-claro-de-luna-tour-indianapolis-indiana-10-12-2025/event/0500629EECF35DA2",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-12",
+      "localTime": "20:00:00",
+      "dateTime": "2025-10-13T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 85,
+  "lastUpdated": "Tue Aug 19 2025 08:15:36 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/b74/d277f911-78a0-44d1-a333-974805054b74_EVENT_DETAIL_PAGE_16_9.jpg"
+}

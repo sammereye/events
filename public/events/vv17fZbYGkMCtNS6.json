@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCtNS6",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:20:53 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 301
+    },
+    {
+      "date": "Tue Aug 19 2025 08:39:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 301
+    },
+    {
+      "date": "Tue Aug 19 2025 17:24:17 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 309
+    },
+    {
+      "date": "Tue Aug 19 2025 17:42:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 309
+    },
+    {
+      "date": "Tue Aug 19 2025 21:35:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 317
+    },
+    {
+      "date": "Tue Aug 19 2025 22:20:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 312
+    },
+    {
+      "date": "Tue Aug 19 2025 22:39:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 312
+    },
+    {
+      "date": "Tue Aug 19 2025 22:59:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 312
+    }
+  ],
+  "name": "Indiana Pacers vs. Boston Celtics",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-boston-celtics-indianapolis-indiana-12-26-2025/event/0500630DCEA63CC7",
+  "dates": {
+    "start": {
+      "localDate": "2025-12-26",
+      "localTime": "19:30:00",
+      "dateTime": "2025-12-27T00:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 49,
+  "lastUpdated": "Tue Aug 19 2025 08:20:53 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

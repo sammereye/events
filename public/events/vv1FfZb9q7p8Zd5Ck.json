@@ -1,0 +1,76 @@
+{
+  "id": "vv1FfZb9q7p8Zd5Ck",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:12:57 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 39,
+      "upperPrice": 195
+    },
+    {
+      "date": "Tue Aug 19 2025 08:31:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 39,
+      "upperPrice": 195
+    },
+    {
+      "date": "Tue Aug 19 2025 08:50:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 39,
+      "upperPrice": 195
+    },
+    {
+      "date": "Tue Aug 19 2025 17:16:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 30,
+      "upperPrice": 180
+    },
+    {
+      "date": "Tue Aug 19 2025 17:34:59 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 30,
+      "upperPrice": 180
+    },
+    {
+      "date": "Tue Aug 19 2025 21:27:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 29,
+      "upperPrice": 173
+    },
+    {
+      "date": "Tue Aug 19 2025 22:12:12 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 29,
+      "upperPrice": 173
+    },
+    {
+      "date": "Tue Aug 19 2025 22:31:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 29,
+      "upperPrice": 173
+    },
+    {
+      "date": "Tue Aug 19 2025 22:51:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 29,
+      "upperPrice": 179
+    },
+    {
+      "date": "Tue Aug 19 2025 23:10:26 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 29,
+      "upperPrice": 179
+    }
+  ],
+  "name": "Cody Jinks - The Hippies and Cowboys Tour",
+  "url": "https://www.ticketmaster.com/cody-jinks-the-hippies-and-cowboys-indianapolis-indiana-09-19-2025/event/0500617744590AD5",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-19",
+      "localTime": "19:00:00",
+      "dateTime": "2025-09-19T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 39,
+  "lastUpdated": "Tue Aug 19 2025 08:12:57 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/b04/919591ea-ab2d-491a-8535-8cfab256ab04_EVENT_DETAIL_PAGE_16_9.jpg"
+}

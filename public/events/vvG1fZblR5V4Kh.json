@@ -1,0 +1,76 @@
+{
+  "id": "vvG1fZblR5V4Kh",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:12:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 285
+    },
+    {
+      "date": "Tue Aug 19 2025 08:31:20 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 285
+    },
+    {
+      "date": "Tue Aug 19 2025 08:49:57 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 285
+    },
+    {
+      "date": "Tue Aug 19 2025 17:16:25 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 17:34:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 21:27:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 22:12:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 22:31:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 22:51:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 287
+    },
+    {
+      "date": "Tue Aug 19 2025 23:10:17 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 287
+    }
+  ],
+  "name": "A Day To Remember & Yellowcard - Maximum Fun Tour",
+  "url": "https://www.ticketmaster.com/a-day-to-remember-yellowcard-maximum-noblesville-indiana-09-19-2025/event/050062BBCBD154DB",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-19",
+      "localTime": "18:15:00",
+      "dateTime": "2025-09-19T22:15:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 41,
+  "lastUpdated": "Tue Aug 19 2025 08:05:27 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dbimages/643192a.jpg"
+}

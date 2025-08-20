@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCYNMp",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:25:01 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 154
+    },
+    {
+      "date": "Tue Aug 19 2025 08:43:32 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 154
+    },
+    {
+      "date": "Tue Aug 19 2025 17:28:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 152
+    },
+    {
+      "date": "Tue Aug 19 2025 17:46:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 152
+    },
+    {
+      "date": "Tue Aug 19 2025 21:39:57 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 154
+    },
+    {
+      "date": "Tue Aug 19 2025 22:24:50 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 150
+    },
+    {
+      "date": "Tue Aug 19 2025 22:44:11 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 150
+    },
+    {
+      "date": "Tue Aug 19 2025 23:03:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 150
+    }
+  ],
+  "name": "Indiana Pacers vs. Houston Rockets",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-houston-rockets-indianapolis-indiana-02-02-2026/event/0500630DCEC23DD6",
+  "dates": {
+    "start": {
+      "localDate": "2026-02-02",
+      "localTime": "19:00:00",
+      "dateTime": "2026-02-03T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 24,
+  "lastUpdated": "Tue Aug 19 2025 08:25:01 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

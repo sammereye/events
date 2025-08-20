@@ -1,0 +1,66 @@
+{
+  "id": "vv11fZbE1fqvZY",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:17:25 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 332
+    },
+    {
+      "date": "Tue Aug 19 2025 08:35:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 332
+    },
+    {
+      "date": "Tue Aug 19 2025 17:20:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 342
+    },
+    {
+      "date": "Tue Aug 19 2025 17:39:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 342
+    },
+    {
+      "date": "Tue Aug 19 2025 21:32:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 335
+    },
+    {
+      "date": "Tue Aug 19 2025 22:16:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 327
+    },
+    {
+      "date": "Tue Aug 19 2025 22:36:17 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 327
+    },
+    {
+      "date": "Tue Aug 19 2025 22:55:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 327
+    }
+  ],
+  "name": "Jonas Brothers: JONAS20 Greetings From Your Hometown",
+  "url": "https://www.ticketmaster.com/jonas-brothers-jonas20-greetings-from-your-indianapolis-indiana-11-02-2025/event/0500627294741030",
+  "dates": {
+    "start": {
+      "localDate": "2025-11-02",
+      "localTime": "19:30:00",
+      "dateTime": "2025-11-03T00:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 61,
+  "lastUpdated": "Tue Aug 19 2025 08:17:25 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/257/0f1a51cd-670d-41ca-bb6f-775ea30f6257_EVENT_DETAIL_PAGE_16_9.jpg"
+}

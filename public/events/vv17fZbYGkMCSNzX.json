@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCSNzX",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:25:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 104
+    },
+    {
+      "date": "Tue Aug 19 2025 08:44:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 104
+    },
+    {
+      "date": "Tue Aug 19 2025 17:29:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 106
+    },
+    {
+      "date": "Tue Aug 19 2025 17:47:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 106
+    },
+    {
+      "date": "Tue Aug 19 2025 21:40:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 106
+    },
+    {
+      "date": "Tue Aug 19 2025 22:25:30 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 106
+    },
+    {
+      "date": "Tue Aug 19 2025 22:44:50 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 106
+    },
+    {
+      "date": "Tue Aug 19 2025 23:04:23 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 106
+    }
+  ],
+  "name": "Indiana Pacers vs. Charlotte Hornets",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-charlotte-hornets-indianapolis-indiana-02-26-2026/event/0500630DCECE3E3E",
+  "dates": {
+    "start": {
+      "localDate": "2026-02-26",
+      "localTime": "19:00:00",
+      "dateTime": "2026-02-27T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 15,
+  "lastUpdated": "Tue Aug 19 2025 08:25:39 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

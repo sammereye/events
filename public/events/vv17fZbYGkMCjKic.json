@@ -1,0 +1,71 @@
+{
+  "id": "vv17fZbYGkMCjKic",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:15:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 112
+    },
+    {
+      "date": "Tue Aug 19 2025 08:33:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 112
+    },
+    {
+      "date": "Tue Aug 19 2025 08:53:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 112
+    },
+    {
+      "date": "Tue Aug 19 2025 17:18:36 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 77
+    },
+    {
+      "date": "Tue Aug 19 2025 17:36:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 77
+    },
+    {
+      "date": "Tue Aug 19 2025 21:29:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 107
+    },
+    {
+      "date": "Tue Aug 19 2025 22:14:20 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 106
+    },
+    {
+      "date": "Tue Aug 19 2025 22:34:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 106
+    },
+    {
+      "date": "Tue Aug 19 2025 22:53:18 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 7,
+      "upperPrice": 106
+    }
+  ],
+  "name": "(PRESEASON) Indiana Pacers vs. Oklahoma City Thunder",
+  "url": "https://www.ticketmaster.com/preseason-indiana-pacers-vs-oklahoma-city-indianapolis-indiana-10-11-2025/event/0500630DCE713B2D",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-11",
+      "localTime": "19:00:00",
+      "dateTime": "2025-10-11T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 7,
+  "lastUpdated": "Tue Aug 19 2025 08:15:16 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

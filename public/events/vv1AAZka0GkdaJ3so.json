@@ -1,0 +1,95 @@
+{
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 07:58:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 172
+    },
+    {
+      "date": "Tue Aug 19 2025 07:59:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 172
+    },
+    {
+      "date": "Tue Aug 19 2025 08:02:20 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 170
+    },
+    {
+      "date": "Tue Aug 19 2025 08:06:25 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 172
+    },
+    {
+      "date": "Tue Aug 19 2025 08:09:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 176
+    },
+    {
+      "date": "Tue Aug 19 2025 08:28:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 176
+    },
+    {
+      "date": "Tue Aug 19 2025 08:46:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 176
+    },
+    {
+      "date": "Tue Aug 19 2025 17:13:09 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 165
+    },
+    {
+      "date": "Tue Aug 19 2025 17:31:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 165
+    },
+    {
+      "date": "Tue Aug 19 2025 21:24:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 163
+    },
+    {
+      "date": "Tue Aug 19 2025 22:08:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 154
+    },
+    {
+      "date": "Tue Aug 19 2025 22:28:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 154
+    },
+    {
+      "date": "Tue Aug 19 2025 22:47:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 154
+    },
+    {
+      "date": "Tue Aug 19 2025 23:06:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 31,
+      "upperPrice": 154
+    }
+  ],
+  "name": "VOLBEAT Greatest of All Tours Worldwide with Special Guest Halestorm",
+  "url": "https://www.ticketmaster.com/volbeat-greatest-of-all-tours-worldwide-noblesville-indiana-08-21-2025/event/05006264C9992C51",
+  "dates": {
+    "start": {
+      "localDate": "2025-08-21",
+      "localTime": "19:00:00",
+      "dateTime": "2025-08-21T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 31,
+  "lastUpdated": "Tue Aug 19 2025 07:58:52 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/1c5/37ace517-0b1b-4c46-b17e-6d77f6dcb1c5_EVENT_DETAIL_PAGE_16_9.jpg"
+}

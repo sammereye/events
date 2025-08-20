@@ -1,0 +1,56 @@
+{
+  "id": "vv17fZbYGkMCDdW5",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:27:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 140
+    },
+    {
+      "date": "Tue Aug 19 2025 08:46:05 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 140
+    },
+    {
+      "date": "Tue Aug 19 2025 17:31:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 144
+    },
+    {
+      "date": "Tue Aug 19 2025 22:27:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 140
+    },
+    {
+      "date": "Tue Aug 19 2025 22:47:04 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 140
+    },
+    {
+      "date": "Tue Aug 19 2025 23:06:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 140
+    }
+  ],
+  "name": "Indiana Pacers vs. Detroit Pistons",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-detroit-pistons-indianapolis-indiana-04-12-2026/event/0500630DCEEC3F4B",
+  "dates": {
+    "start": {
+      "localDate": "2026-04-12",
+      "localTime": "18:00:00",
+      "dateTime": "2026-04-12T22:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 24,
+  "lastUpdated": "Tue Aug 19 2025 08:27:44 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

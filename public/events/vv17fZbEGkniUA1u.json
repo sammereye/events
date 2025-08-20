@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbEGkniUA1u",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:21:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 277
+    },
+    {
+      "date": "Tue Aug 19 2025 08:39:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 277
+    },
+    {
+      "date": "Tue Aug 19 2025 17:24:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 274
+    },
+    {
+      "date": "Tue Aug 19 2025 17:42:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 273
+    },
+    {
+      "date": "Tue Aug 19 2025 21:35:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 273
+    },
+    {
+      "date": "Tue Aug 19 2025 22:20:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 273
+    },
+    {
+      "date": "Tue Aug 19 2025 22:40:00 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 273
+    },
+    {
+      "date": "Tue Aug 19 2025 22:59:36 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 41,
+      "upperPrice": 273
+    }
+  ],
+  "name": "Indianapolis Colts vs. Jacksonville Jaguars",
+  "url": "https://www.ticketmaster.com/indianapolis-colts-vs-jacksonville-jaguars-indianapolis-indiana-12-28-2025/event/0500627AACD8528D",
+  "dates": {
+    "start": {
+      "localDate": "2025-12-28",
+      "localTime": "13:00:00",
+      "dateTime": "2025-12-28T18:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 41,
+  "lastUpdated": "Tue Aug 19 2025 08:21:02 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/e65/7563dc86-c080-4b85-ba72-c4400f5dde65_1325221_EVENT_DETAIL_PAGE_16_9.jpg"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "vv17fZbEGkniSgFA",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:14:31 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 63,
+      "upperPrice": 415
+    },
+    {
+      "date": "Tue Aug 19 2025 08:32:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 63,
+      "upperPrice": 415
+    },
+    {
+      "date": "Tue Aug 19 2025 08:51:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 63,
+      "upperPrice": 415
+    },
+    {
+      "date": "Tue Aug 19 2025 17:17:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 413
+    },
+    {
+      "date": "Tue Aug 19 2025 17:36:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 61,
+      "upperPrice": 413
+    },
+    {
+      "date": "Tue Aug 19 2025 21:29:05 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 63,
+      "upperPrice": 427
+    },
+    {
+      "date": "Tue Aug 19 2025 22:13:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 63,
+      "upperPrice": 417
+    },
+    {
+      "date": "Tue Aug 19 2025 22:33:08 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 63,
+      "upperPrice": 417
+    },
+    {
+      "date": "Tue Aug 19 2025 22:52:26 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 63,
+      "upperPrice": 417
+    },
+    {
+      "date": "Tue Aug 19 2025 23:11:54 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 63,
+      "upperPrice": 417
+    }
+  ],
+  "name": "Indianapolis Colts vs. Las Vegas Raiders",
+  "url": "https://www.ticketmaster.com/indianapolis-colts-vs-las-vegas-raiders-indianapolis-indiana-10-05-2025/event/0500627AACCF5205",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-05",
+      "localTime": "13:00:00",
+      "dateTime": "2025-10-05T17:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 63,
+  "lastUpdated": "Tue Aug 19 2025 08:14:31 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/e65/7563dc86-c080-4b85-ba72-c4400f5dde65_1325221_EVENT_DETAIL_PAGE_16_9.jpg"
+}

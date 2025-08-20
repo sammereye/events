@@ -1,0 +1,56 @@
+{
+  "id": "vv17fZbYGkMCzSDt",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:27:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 160
+    },
+    {
+      "date": "Tue Aug 19 2025 08:45:42 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 160
+    },
+    {
+      "date": "Tue Aug 19 2025 17:30:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 156
+    },
+    {
+      "date": "Tue Aug 19 2025 22:27:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 156
+    },
+    {
+      "date": "Tue Aug 19 2025 22:46:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 156
+    },
+    {
+      "date": "Tue Aug 19 2025 23:06:03 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 24,
+      "upperPrice": 156
+    }
+  ],
+  "name": "Indiana Pacers vs. Miami Heat",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-miami-heat-indianapolis-indiana-03-29-2026/event/0500630DCEE33EE9",
+  "dates": {
+    "start": {
+      "localDate": "2026-03-29",
+      "localTime": "17:00:00",
+      "dateTime": "2026-03-29T21:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 24,
+  "lastUpdated": "Tue Aug 19 2025 08:27:19 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

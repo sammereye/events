@@ -1,0 +1,64 @@
+{
+  "id": "vv1AAZka_GkdLjAR6",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:20:01 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 82,
+      "upperPrice": 83
+    },
+    {
+      "date": "Tue Aug 19 2025 08:38:08 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 82,
+      "upperPrice": 83
+    },
+    {
+      "date": "Tue Aug 19 2025 17:23:18 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 82,
+      "upperPrice": 83
+    },
+    {
+      "date": "Tue Aug 19 2025 17:41:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 82,
+      "upperPrice": 83
+    },
+    {
+      "date": "Tue Aug 19 2025 21:34:40 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 82,
+      "upperPrice": 83
+    },
+    {
+      "date": "Tue Aug 19 2025 22:19:26 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 82,
+      "upperPrice": 83
+    },
+    {
+      "date": "Tue Aug 19 2025 22:38:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 82,
+      "upperPrice": 83
+    },
+    {
+      "date": "Tue Aug 19 2025 22:58:21 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 82,
+      "upperPrice": 83
+    }
+  ],
+  "name": "CareSource Invitational: Indiana vs. Louisville",
+  "url": "https://www.ticketmaster.com/caresource-invitational-indiana-vs-louisville-indianapolis-indiana-12-06-2025/event/05006259DF705BC7",
+  "dates": {
+    "start": {
+      "localDate": "2025-12-06",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": true,
+      "noSpecificTime": true
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 82,
+  "lastUpdated": "Tue Aug 19 2025 08:20:01 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/e/506/897b0e4e-967e-4644-b986-7e46bc577506_EVENT_DETAIL_PAGE_16_9.jpg"
+}

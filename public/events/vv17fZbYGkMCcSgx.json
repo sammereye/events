@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbYGkMCcSgx",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:22:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 119
+    },
+    {
+      "date": "Tue Aug 19 2025 08:41:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 119
+    },
+    {
+      "date": "Tue Aug 19 2025 17:26:23 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 121
+    },
+    {
+      "date": "Tue Aug 19 2025 17:44:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 121
+    },
+    {
+      "date": "Tue Aug 19 2025 21:37:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 121
+    },
+    {
+      "date": "Tue Aug 19 2025 22:22:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 117
+    },
+    {
+      "date": "Tue Aug 19 2025 22:41:59 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 117
+    },
+    {
+      "date": "Tue Aug 19 2025 23:01:36 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 15,
+      "upperPrice": 117
+    }
+  ],
+  "name": "Indiana Pacers vs. Toronto Raptors",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-toronto-raptors-indianapolis-indiana-01-14-2026/event/0500630DCEB73D62",
+  "dates": {
+    "start": {
+      "localDate": "2026-01-14",
+      "localTime": "19:00:00",
+      "dateTime": "2026-01-15T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 15,
+  "lastUpdated": "Tue Aug 19 2025 08:22:58 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}

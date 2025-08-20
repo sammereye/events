@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbIGknSXewL",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:14:59 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 410
+    },
+    {
+      "date": "Tue Aug 19 2025 08:33:12 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 410
+    },
+    {
+      "date": "Tue Aug 19 2025 17:18:16 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 410
+    },
+    {
+      "date": "Tue Aug 19 2025 17:36:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 410
+    },
+    {
+      "date": "Tue Aug 19 2025 21:29:36 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 22:14:00 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 22:33:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    },
+    {
+      "date": "Tue Aug 19 2025 22:52:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 60,
+      "upperPrice": 412
+    }
+  ],
+  "name": "Eric Church: Free The Machine Tour",
+  "url": "https://www.ticketmaster.com/eric-church-free-the-machine-tour-indianapolis-indiana-10-09-2025/event/0500628AB3F82C9F",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-09",
+      "localTime": "19:30:00",
+      "dateTime": "2025-10-09T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 60,
+  "lastUpdated": "Tue Aug 19 2025 08:14:59 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/89b/14142880-b2fa-4a13-a246-6d90fe8ad89b_EVENT_DETAIL_PAGE_16_9.jpg"
+}

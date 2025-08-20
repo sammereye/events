@@ -1,0 +1,76 @@
+{
+  "id": "vv1AAZkAJGkdMxSau",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:13:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 47,
+      "upperPrice": 203
+    },
+    {
+      "date": "Tue Aug 19 2025 08:32:09 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 47,
+      "upperPrice": 203
+    },
+    {
+      "date": "Tue Aug 19 2025 08:50:43 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 47,
+      "upperPrice": 203
+    },
+    {
+      "date": "Tue Aug 19 2025 17:17:14 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 46,
+      "upperPrice": 228
+    },
+    {
+      "date": "Tue Aug 19 2025 17:35:38 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 46,
+      "upperPrice": 228
+    },
+    {
+      "date": "Tue Aug 19 2025 21:28:37 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 49,
+      "upperPrice": 227
+    },
+    {
+      "date": "Tue Aug 19 2025 22:12:54 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 46,
+      "upperPrice": 224
+    },
+    {
+      "date": "Tue Aug 19 2025 22:32:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 46,
+      "upperPrice": 224
+    },
+    {
+      "date": "Tue Aug 19 2025 22:51:54 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 46,
+      "upperPrice": 224
+    },
+    {
+      "date": "Tue Aug 19 2025 23:11:02 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 46,
+      "upperPrice": 224
+    }
+  ],
+  "name": "Papa Roach & Rise Against: Rise of the Roach Tour ",
+  "url": "https://www.ticketmaster.com/papa-roach-rise-against-rise-of-indianapolis-indiana-09-26-2025/event/05006166F78B324D",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-26",
+      "localTime": "19:00:00",
+      "dateTime": "2025-09-26T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 47,
+  "lastUpdated": "Tue Aug 19 2025 08:13:34 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dbimages/557509a.jpg"
+}

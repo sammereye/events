@@ -1,0 +1,76 @@
+{
+  "id": "vvG1fZbnjvbVzU",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:13:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 177,
+      "upperPrice": 603
+    },
+    {
+      "date": "Tue Aug 19 2025 08:31:50 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 177,
+      "upperPrice": 603
+    },
+    {
+      "date": "Tue Aug 19 2025 08:50:25 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 177,
+      "upperPrice": 603
+    },
+    {
+      "date": "Tue Aug 19 2025 17:16:54 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 174,
+      "upperPrice": 596
+    },
+    {
+      "date": "Tue Aug 19 2025 17:35:18 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 174,
+      "upperPrice": 593
+    },
+    {
+      "date": "Tue Aug 19 2025 21:28:18 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 177,
+      "upperPrice": 603
+    },
+    {
+      "date": "Tue Aug 19 2025 22:12:35 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 174,
+      "upperPrice": 596
+    },
+    {
+      "date": "Tue Aug 19 2025 22:32:13 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 174,
+      "upperPrice": 607
+    },
+    {
+      "date": "Tue Aug 19 2025 22:51:33 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 174,
+      "upperPrice": 596
+    },
+    {
+      "date": "Tue Aug 19 2025 23:10:44 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 174,
+      "upperPrice": 618
+    }
+  ],
+  "name": "Alex Warren - Cheaper Than Therapy Tour ",
+  "url": "https://www.ticketmaster.com/alex-warren-cheaper-than-therapy-tour-indianapolis-indiana-09-23-2025/event/050062A701634E36",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-23",
+      "localTime": "20:00:00",
+      "dateTime": "2025-09-24T00:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 177,
+  "lastUpdated": "Tue Aug 19 2025 08:13:15 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/3af/5f83f24f-10e0-4a3a-9cc2-311d570c33af_EVENT_DETAIL_PAGE_16_9.jpg"
+}

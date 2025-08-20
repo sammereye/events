@@ -1,0 +1,59 @@
+{
+  "id": "vvG1fZbnSt3K6L",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:20:26 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 17:23:47 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 17:42:17 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 21:35:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 22:19:56 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 22:39:19 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 192
+    },
+    {
+      "date": "Tue Aug 19 2025 22:58:51 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 56,
+      "upperPrice": 192
+    }
+  ],
+  "name": "2025 Indy Classic presented by Bush's Chili Beans",
+  "url": "https://www.ticketmaster.com/2025-indy-classic-presented-by-bushs-indianapolis-indiana-12-20-2025/event/050062ACE94931DF",
+  "dates": {
+    "start": {
+      "localDate": "2025-12-20",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": true,
+      "noSpecificTime": true
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 56,
+  "lastUpdated": "Tue Aug 19 2025 08:20:26 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/e/4cb/5bab6d06-b53d-4746-81f9-8277bc0ef4cb_EVENT_DETAIL_PAGE_16_9.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "vv1AAZkazGke-X-SE",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:26:54 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 55,
+      "upperPrice": 201
+    },
+    {
+      "date": "Tue Aug 19 2025 08:45:18 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 55,
+      "upperPrice": 201
+    },
+    {
+      "date": "Tue Aug 19 2025 17:30:20 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 55,
+      "upperPrice": 201
+    },
+    {
+      "date": "Tue Aug 19 2025 17:48:48 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 55,
+      "upperPrice": 201
+    },
+    {
+      "date": "Tue Aug 19 2025 22:26:49 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 55,
+      "upperPrice": 201
+    },
+    {
+      "date": "Tue Aug 19 2025 22:46:10 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 55,
+      "upperPrice": 201
+    },
+    {
+      "date": "Tue Aug 19 2025 23:05:39 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 55,
+      "upperPrice": 201
+    }
+  ],
+  "name": "Brandon Lake - King of Hearts Tour",
+  "url": "https://www.ticketmaster.com/brandon-lake-king-of-hearts-tour-indianapolis-indiana-03-19-2026/event/05006278A1FA1CE7",
+  "dates": {
+    "start": {
+      "localDate": "2026-03-19",
+      "localTime": "19:00:00",
+      "dateTime": "2026-03-19T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 55,
+  "lastUpdated": "Tue Aug 19 2025 08:26:54 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/c11/c361b950-449b-4bad-9bf7-374247ee9c11_EVENT_DETAIL_PAGE_16_9.jpg"
+}

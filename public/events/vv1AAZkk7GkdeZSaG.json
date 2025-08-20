@@ -1,0 +1,76 @@
+{
+  "id": "vv1AAZkk7GkdeZSaG",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:11:52 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 132
+    },
+    {
+      "date": "Tue Aug 19 2025 08:30:22 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 132
+    },
+    {
+      "date": "Tue Aug 19 2025 08:49:03 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 133
+    },
+    {
+      "date": "Tue Aug 19 2025 17:15:28 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 131
+    },
+    {
+      "date": "Tue Aug 19 2025 17:33:50 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 132
+    },
+    {
+      "date": "Tue Aug 19 2025 21:26:51 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 134
+    },
+    {
+      "date": "Tue Aug 19 2025 22:11:03 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 137
+    },
+    {
+      "date": "Tue Aug 19 2025 22:30:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 137
+    },
+    {
+      "date": "Tue Aug 19 2025 22:49:58 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 137
+    },
+    {
+      "date": "Tue Aug 19 2025 23:09:24 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 16,
+      "upperPrice": 137
+    }
+  ],
+  "name": "Indiana Fever vs. Minnesota Lynx",
+  "url": "https://www.ticketmaster.com/indiana-fever-vs-minnesota-lynx-indianapolis-indiana-09-09-2025/event/05006184C203324C",
+  "dates": {
+    "start": {
+      "localDate": "2025-09-09",
+      "localTime": "19:30:00",
+      "dateTime": "2025-09-09T23:30:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 16,
+  "lastUpdated": "Tue Aug 19 2025 08:04:30 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/349/0af77d9c-2d26-4df4-89f8-a02f6eb75349_EVENT_DETAIL_PAGE_16_9.jpg"
+}

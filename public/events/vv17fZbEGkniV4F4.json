@@ -1,0 +1,66 @@
+{
+  "id": "vv17fZbEGkniV4F4",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:15:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 48,
+      "upperPrice": 322
+    },
+    {
+      "date": "Tue Aug 19 2025 08:33:41 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 48,
+      "upperPrice": 322
+    },
+    {
+      "date": "Tue Aug 19 2025 17:18:45 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 48,
+      "upperPrice": 316
+    },
+    {
+      "date": "Tue Aug 19 2025 17:37:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 48,
+      "upperPrice": 316
+    },
+    {
+      "date": "Tue Aug 19 2025 21:30:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 48,
+      "upperPrice": 325
+    },
+    {
+      "date": "Tue Aug 19 2025 22:14:32 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 50,
+      "upperPrice": 330
+    },
+    {
+      "date": "Tue Aug 19 2025 22:34:15 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 50,
+      "upperPrice": 330
+    },
+    {
+      "date": "Tue Aug 19 2025 22:53:29 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 50,
+      "upperPrice": 330
+    }
+  ],
+  "name": "Indianapolis Colts vs. Arizona Cardinals",
+  "url": "https://www.ticketmaster.com/indianapolis-colts-vs-arizona-cardinals-indianapolis-indiana-10-12-2025/event/0500627AACD15215",
+  "dates": {
+    "start": {
+      "localDate": "2025-10-12",
+      "localTime": "13:00:00",
+      "dateTime": "2025-10-12T17:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/New_York",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 48,
+  "lastUpdated": "Tue Aug 19 2025 08:15:27 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/e65/7563dc86-c080-4b85-ba72-c4400f5dde65_1325221_EVENT_DETAIL_PAGE_16_9.jpg"
+}

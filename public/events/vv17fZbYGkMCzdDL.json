@@ -1,0 +1,56 @@
+{
+  "id": "vv17fZbYGkMCzdDL",
+  "priceRange": [
+    {
+      "date": "Tue Aug 19 2025 08:27:11 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 33,
+      "upperPrice": 185
+    },
+    {
+      "date": "Tue Aug 19 2025 08:45:34 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 33,
+      "upperPrice": 185
+    },
+    {
+      "date": "Tue Aug 19 2025 17:30:36 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 33,
+      "upperPrice": 179
+    },
+    {
+      "date": "Tue Aug 19 2025 22:27:06 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 33,
+      "upperPrice": 181
+    },
+    {
+      "date": "Tue Aug 19 2025 22:46:27 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 33,
+      "upperPrice": 181
+    },
+    {
+      "date": "Tue Aug 19 2025 23:05:55 GMT-0400 (Eastern Daylight Time)",
+      "lowestPrice": 33,
+      "upperPrice": 181
+    }
+  ],
+  "name": "Indiana Pacers vs. LA Clippers",
+  "url": "https://www.ticketmaster.com/indiana-pacers-vs-la-clippers-indianapolis-indiana-03-27-2026/event/0500630DCEE03EDF",
+  "dates": {
+    "start": {
+      "localDate": "2026-03-27",
+      "localTime": "19:00:00",
+      "dateTime": "2026-03-27T23:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+    },
+    "timezone": "America/Indiana/Indianapolis",
+    "status": {
+      "code": "onsale"
+    },
+    "spanMultipleDays": false
+  },
+  "latestLowestPrice": 33,
+  "lastUpdated": "Tue Aug 19 2025 08:27:11 GMT-0400 (Eastern Daylight Time)",
+  "logoUrl": "https://s1.ticketm.net/dam/a/2e4/68baa9a2-339a-467b-9db4-516afb4d52e4_1339941_EVENT_DETAIL_PAGE_16_9.jpg"
+}
